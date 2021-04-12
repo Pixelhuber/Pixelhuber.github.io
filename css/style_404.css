@@ -36,10 +36,12 @@ body::after {
 .topconvo {
     font-size: 35px;
 }
-.topconvo span{
+
+.topconvo span {
     color: #a71dbf;
 }
-.bottomconvo{
+
+.bottomconvo {
     padding-top: 15px;
 }
 
@@ -302,12 +304,15 @@ svg#picklerick .st4 {
     .svgcontainer svg#fourohfour {
         height: 180px;
     }
-    .topconvo{
+
+    .topconvo {
         font-size: 25px;
     }
-    .bottomconvo{
+
+    .bottomconvo {
         font-size: 13px;
     }
+
     svg#picklerick {
         bottom: -420px;
         right: 10vw;
@@ -315,12 +320,14 @@ svg#picklerick .st4 {
 }
 
 @media only screen and (max-width: 600px) {
-    .topconvo{
+    .topconvo {
         font-size: 25px;
     }
-    .bottomconvo{
+
+    .bottomconvo {
         font-size: 13px;
     }
+
     svg#picklerick {
         width: 240px;
     }
